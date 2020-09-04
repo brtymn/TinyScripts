@@ -1,7 +1,3 @@
-# RandomSmallProjects
-I will be posting my little Pyhton3 projects here. Feel free to use them if you find them useful in any way.
+# TinyScripts
 
-
-
-
-Just very very simple codes that I failed to find online when I needed them, so I wrote them!
+This repository contains small scripts I wrote when I needed them. I am just leaving them here if someone else has a use for them.
